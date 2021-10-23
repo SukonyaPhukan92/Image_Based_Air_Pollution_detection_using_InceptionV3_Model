@@ -1,0 +1,4 @@
+Irrelevant Input
+Moderate Pollution
+No Pollution
+Severe Pollution

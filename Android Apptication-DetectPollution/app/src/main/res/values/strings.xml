@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Detect Pollution</string>
+    <string name="buttonSelectPhoto">Select Photo</string>
+    <string name="buttonTakePhoto">Start Camera</string>
+    <string name="buttonDiagnose">Detect</string>
+    <string name="defaultImage">Default image set now...</string>
+    <string name="company">Powered By NERERL</string>
+    <string name="descriptionImage">View for displaying image</string>
+</resources>
