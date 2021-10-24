@@ -1,4 +1,4 @@
-# Image_Based_Air_Pollution_detection_using_InceptionV3_Model
+# Image Based Air Pollution detection using Inception-V3 Model
 
  In this project work, the main motive is to build a deep 
 learning model to detect air pollution from real-time images. In order 
